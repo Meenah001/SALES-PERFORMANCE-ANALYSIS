@@ -68,13 +68,14 @@ The highest sales was made in 2014  with about $92M sales
 # FINDINGS AND RECOMMENDATION
 
 After carrying out a proper analysis on the data, the following conclusion was reached;
-. United States is the best location to build the new branch of the company, reason being that it recorded the highest sales of the products
 
-. There is corrlation between the Gross sales and Total sales
+- United States is the best location to build the new branch of the company, reason being that it recorded the highest sales of the products
 
-. Paseo being the most purchased product and also the most profitable product should be produce in large quantities
+- There is corrlation between the Gross sales and Total sales
 
- . Carretera has the lowest sales and profit, new strategy should be introduced in making this product for it to bring in more sales and profit.  
+- Paseo being the most purchased product and also the most profitable product should be produce in large quantities
+
+ - Carretera has the lowest sales and profit, new strategy should be introduced in making this product for it to bring in more sales and profit.  
 
 
 
