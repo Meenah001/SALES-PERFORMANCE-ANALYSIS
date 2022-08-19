@@ -45,7 +45,7 @@ United States had the highest sales of the product with about $25.03M sales
 
 ![SALES BY PRODUCT](https://user-images.githubusercontent.com/97677904/185609586-628facd0-a381-4906-8bb9-32347adbca03.jpg)
 
-Paseo is the most sold product with $33.0M sales
+Paseo is the most sold product with $33M sales
 
 ---
 
